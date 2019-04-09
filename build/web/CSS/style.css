@@ -1,0 +1,30 @@
+.scrollDivider{
+    position: relative;
+    max-height: 500px;
+    overflow-y: scroll;
+}
+h1{
+    color: blue;
+}
+.logo{
+    position: relative;
+    padding: 5px;
+    text-align: center;
+}
+body{
+    padding-top: 20px;
+}
+.background{
+    background:#1c3b65;
+    background:-webkit-linear-gradient(29deg,#1c3b65,#1F6382,#40b9bb);
+    background:-o-linear-gradient(29deg,#1c3b65,#1F6382,#40b9bb);
+    background:-moz-linear-gradient(29deg,#1c3b65,#1F6382,#40b9bb);
+    background:linear-gradient(29deg,#1c3b65,#1F6382,#40b9bb);
+    padding:40px 0;
+}
+
+.centro{
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;
+}
